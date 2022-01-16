@@ -14,6 +14,9 @@ Daqo as a new energy company has a skyrocket price increase with the highest **1
 However, in 2018, due to the overall market going down, DQ share has a biggest price drop of **62.6%** among the 12 energy stock even though with total daily volumes 107.9 millions which is below the average total daily volumes in the 12 stocks.
 Overall the two years of Daqo stock performance, investors still have 12% gain in two years total which stands in the middle of investment performance of the 12 companies.
 ENPH and RUN are the two stocks with the continuous price increase in the 2017 and 2018. ENPH, SEDG and RUN are the top 3 stocks with the highest investment gain in the two years.
+<img src="Resources/VBA_Challenges_2017.png">
+<img src="Resources/VBA_Challenges_2018.png">
+
 
 ## Summary
 
